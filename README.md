@@ -8,9 +8,10 @@ Durante el desarrollo, apliqué las mejores prácticas en la escritura de códig
 
 - Utilización de buenas prácticas de desarrollo.  
 - Manejo eficiente de excepciones.  
-- Uso de `RestTemplate` para la comunicación con APIs externas.  
+- Uso de `RestTemplate` para la comunicación con APIs internas como API Client y Api Transacciones & Account.  
 - Desarrollo realizado en el IDE de la plataforma de pruebas.  
-- Comunicación eficiente entre microservicios con múltiples validaciones.  
+- Comunicación eficiente entre microservicios con múltiples validaciones.
+- Implementacion de Handlers Englobando la respuesta a errores y respuestas correctas
 
 ## Catálogo de APIs  
 
